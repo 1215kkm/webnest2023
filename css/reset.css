@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+* {margin: 0; padding: 0;}
+li {list-style: none}
+a {text-decoration: none; color: #333;}
+img, fieldset, input {border: 0; outline: 0}
+legend, caption {font-size: 0; color:transparent; text-indent: -9999px; position: absolute; left: -9999px;}
+table {border-collapse: collapse;}
+.autoHeight:after {content: ""; display: block; clear: both}
+    
